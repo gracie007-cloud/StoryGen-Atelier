@@ -119,17 +119,17 @@ This project is licensed under the ISC License.
 
 ## Examples
 - Storyboard Style Examples:
-  - Cyberpunk Example: ![Cyberpunk](exampleImg/Cyberpunk.png)  
+  - 赛博朋克示例：![Cyberpunk](exampleImg/Cyberpunk.png)  
     <video src="backend/data/videos/full_story_1764762027981.mp4" controls width="900"></video>
 
-  - Ghibli Style Example: ![Ghibli Style](exampleImg/GhibliStyle.png)  
+  - 吉卜力风示例：![Ghibli Style](exampleImg/GhibliStyle.png)  
     <video src="backend/data/videos/full_story_1764754482908.mp4" controls width="900"></video>
 
-  - Realism Example: ![Realism](exampleImg/Realism.png)  
+  - 写实示例：![Realism](exampleImg/Realism.png)  
     <video src="backend/data/videos/full_story_1764616125037.mp4" controls width="900"></video>
 
-  - Chinese Ink Example: ![Chinese Ink](exampleImg/ChineseInk.png)  
+  - 国风水墨示例：![Chinese Ink](exampleImg/ChineseInk.png)  
     <video src="backend/data/videos/full_story_1764757237489.mp4" controls width="900"></video>
 
-  - Anime Style Example: ![Anime](exampleImg/Anime.png)
+  - 动漫风格示例：![Anime](exampleImg/Anime.png)
     <video src="backend/data/videos/full_story_1764614944408.mp4" controls width="900"></video>
